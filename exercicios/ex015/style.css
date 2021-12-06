@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(221, 22, 171, 0.604);
+    font-family: fantasy;
+    font-size: 15px;
+}
+
+h1 {
+    background-color: cadetblue;
+    color: darkgoldenrod;
+}
+
+h2 {
+    color: darkmagenta;
+}
+
+p {
+    text-align: justify;
+}
